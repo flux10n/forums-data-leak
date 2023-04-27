@@ -3,7 +3,7 @@
 - Before entering turn on VPN + Private Search Engine to browse.
 
 ```diff
-@@-------[ Let'sgo >.< ]-------@@
+@@-------[ Let's Go >.< ]-------@@
 ```
 #### ╭─ ~ ╰─❯ Active Y/N
 - <a href="">https://0x00sec.org/</a>
