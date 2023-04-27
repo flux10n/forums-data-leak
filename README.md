@@ -69,6 +69,4 @@
 
 
 
-<a href="/pompompurin.gif" download="Pompompurin">
-  <img src="/pompompurin.gif" alt="Pompompurin" width="104" height="142">
-</a>
+
